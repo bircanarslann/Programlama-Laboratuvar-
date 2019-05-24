@@ -49,7 +49,7 @@ plt.plot(center[0],center[1],'*')
 plt.show()
 
 
-import random
+
 from matplotlib import pyplot as plt
 
 def get_center(points):
